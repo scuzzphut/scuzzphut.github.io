@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## DIY Eurorack Projects
+
+This page has links to Eurorack projects I have built, with some notes that may be useful.
+Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designed in DIYLayoutCreator and etched at home and some are custom panel/pcbs ordered from JLCPCB. For the JLCPCB orders, some I have laid out in EasyEDA myself and some are projects by others published in Github. 
+
+**Please note :**
+- Particularly on my early modules, I have made poor design decisions. These are noted on each individual page.
+- All of my modules are mounted in 19" rack frames (using Behringer Eurorack racks) where depth is not an issue.
+- I have generally opted for low HP modules to save rack space, at the expense of increased depth. This means that many jacks and potentiometers are right-angled, side mounting.  
 
 You can use the [editor on GitHub](https://github.com/scuzzphut/scuzzphut.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
