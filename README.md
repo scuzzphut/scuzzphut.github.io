@@ -8,7 +8,7 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 - All of my modules are mounted in 19" rack frames (using Behringer Eurorack racks) where depth is not an issue.
 - I have generally opted for low HP modules to save rack space, at the expense of increased depth. This means that many jacks and potentiometers are right-angled, side mounting.  
 
-** Modules** Panel / PCB Kits
+#** Modules** Panel / PCB Kits
 - Ornament & Crime
 - AI Synthesis VCO
 - AI Synthesis VCF
@@ -17,12 +17,12 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 
 
 
-** Modules** Panel and PCB ordered from JLCPCB
+#** Modules** Panel and PCB ordered from JLCPCB
 - Through Hole Braids
 - Quad Attenuators
 - 4 Channel Mixer (Using Quad Attenuators PCB/Panel)
 
-** Modules** Home etched PCB / Home Drilled Panel
+#** Modules** Home etched PCB / Home Drilled Panel
 - Dual VCA
 - Lopass Gate
 - 4 Channel Mixer 
@@ -31,7 +31,7 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 - THAT 2181 VCA
 - Wasp Filter
 
-** Modules** Oddballs
+#** Modules** Oddballs
 - Midimuso Midi to CV Interface *
 
 
