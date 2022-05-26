@@ -8,6 +8,35 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 - All of my modules are mounted in 19" rack frames (using Behringer Eurorack racks) where depth is not an issue.
 - I have generally opted for low HP modules to save rack space, at the expense of increased depth. This means that many jacks and potentiometers are right-angled, side mounting.  
 
+** Modules ** Panel / PCB Kits
+- Ornament & Crime
+- AI Synthesis VCO
+- AI Synthesis VCF
+- mxmxmx FV-1
+- Europi
+
+
+
+** Modules ** Panel and PCB ordered from JLCPCB
+- Through Hole Braids
+- Quad Attenuators
+- 4 Channel Mixer (Using Quad Attenuators PCB/Panel)
+- 
+
+
+** Modules ** Home etched PCB / Home Drilled Panel
+- Dual VCA
+- Lopass Gate
+- 4 Channel Mixer 
+- Dreadbox PT2399 Delay
+- Mutable Instruments Peaks
+- THAT 2181 VCA
+- Wasp Filter
+
+** Modules ** Oddballs
+- Midimuso Midi to CV Interface *
+
+
 You can use the [editor on GitHub](https://github.com/scuzzphut/scuzzphut.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
