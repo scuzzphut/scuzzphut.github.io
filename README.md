@@ -9,7 +9,7 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 - I have generally opted for low HP modules to save rack space, at the expense of increased depth. This means that many jacks and potentiometers are right-angled, side mounting.  
 
 # Modules - Panel / PCB Kits
-- Ornament & Crime
+- [Ornament & Crime](2022-05-29-Ornament and Crime.md)
 - AI Synthesis VCO
 - AI Synthesis VCF
 - mxmxmx FV-1
