@@ -6,7 +6,7 @@ This was my first venture into SMD (aside from soldering an FV-1 in a couple of 
 
 I ordered a selection of SMD resistors and capacitors from [Tayda](https://www.taydaelectronics.com/) and any odball values they didn't have, I ordered in small quantities from ebay. 
 
-The only expensive (and hard to source) part is the DAC8565IAPW high quality digital to analog converter. Thankfully, Texas Instruments will sell these direct (even in ones and twos) and I ended up doing just that. £10 each plus £5 shipping to Scotland. 
+The only expensive (and hard to source) part is the DAC8565IAPW high quality digital to analog converter. Thankfully, [Texas Instruments](https://www.ti.com/) will sell these direct (even in ones and twos) and I ended up doing just that. £10 each plus £5 shipping to Scotland. 
 
 There is a note on the Ornament & Crime site about some faffing around required to mount the display and get it sitting right.  I ended up cutting an IC socket in half to get a nice low-profile socket for the display pins. Works quite well.
 
