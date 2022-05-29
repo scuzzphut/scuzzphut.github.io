@@ -19,7 +19,8 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 - Through Hole Braids
 - Quad Attenuators
 - 4 Channel Mixer (Using Quad Attenuators PCB/Panel)
-- [Hagiwo Euclidian Sequencer](2022-05-29-hagiwo-euclidian.md)![]({{site.baseurl}}//Untitled.jpg)
+- [Hagiwo Euclidian Sequencer](2022-05-29-hagiwo-euclidian.md)
+![]({{site.baseurl}}//Untitled.jpg)
 
 # Modules - Home etched PCB / Home Drilled Panel
 - Dual VCA
