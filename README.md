@@ -18,7 +18,7 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 # Modules - Panel and PCB ordered from JLCPCB
 - Through Hole Braids
 - Quad Attenuators
-- 4 Channel Mixer (Using Quad Attenuators PCB/Panel)
+- 4 Channel Mixer 
 - [Hagiwo Euclidian Sequencer](2022-05-29-hagiwo-euclidian.md)
 
 ![]({{site.baseurl}}//Untitled.jpg)
@@ -34,3 +34,4 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 
 # Modules - Oddballs
 - Midimuso Midi to CV Interface *
+- Electric Druid Midi Clock 
