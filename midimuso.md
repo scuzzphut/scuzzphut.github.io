@@ -2,7 +2,7 @@
 ## Midimuso Octex in Eurorack.
 
 Here's a [Midimuso Octex](https://midimuso.co.uk/index.php/octex/) converted into a Eurorack module.  
-It takes a DIN Midi in and proves CV(V/Oct)/Gate/Clock output as well as 5 CCs converted to CV.  
+It takes a DIN Midi in and provides CV(V/Oct)/Gate/Clock output as well as 5 CCs converted to CV.  
 It takes a 12Vdc supply, so it was easy enough to chop a power cable and solder on a DC connector. 
 My modules are in a 19" rack so plenty of space at the back.  
 
