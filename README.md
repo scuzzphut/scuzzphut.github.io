@@ -33,5 +33,5 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 - Wasp Filter
 
 # Modules - Oddballs
-- Midimuso Midi to CV Interface *
+- [Midimuso Midi to CV Interface](midimuso)
 - Electric Druid Midi Clock 
