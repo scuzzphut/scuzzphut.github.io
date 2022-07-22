@@ -7,7 +7,7 @@ It takes a 12Vdc supply, so it was easy enough to chop a power cable and solder 
 My modules are in a 19" rack so plenty of space at the back.  
 
 ![Muso1]({{site.baseurl}}/IMG_0396.JPG)
-![Muso2]({{site.baseurl}}/IMG_0396.JPG)
+![Muso2]({{site.baseurl}}/IMG_0397.JPG)
 
 I designed and ordered a front panel from JLCPCB for it. 
 
