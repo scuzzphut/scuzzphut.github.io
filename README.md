@@ -16,7 +16,7 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 - Europi
 
 # Modules - Panel and PCB ordered from JLCPCB
-- Through Hole Braids
+- [Through Hole Braids](braids.md)
 - Quad Attenuators
 - 4 Channel Mixer 
 - [Hagiwo Euclidian Sequencer](2022-05-29-hagiwo-euclidian.md)
