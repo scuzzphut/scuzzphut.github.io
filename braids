@@ -1,5 +1,11 @@
 
+# [Back to Main](README.md)
+## Through Hole Braids
 
+This was built from the project at https://sound-force.nl/?page_id=3179
+
+This project uses the open source hardware and software for the Mutable Instruments Braids module and makes it a DIY project by converting all the components to through-hole (as opposed to SMD) and utilising the freely available STM32 development board, commonly known as Bluepills, in place of the bare, SMD  STM32 microcontroller.
+I ordered the PCBs from JLCPCB, using the Gerber files on the Soundforce site. I then ordered a front panel from Pusherman 
 
 
 If you have a problem with your Bluepill not working after flashing the Braids.hex file from Soundforce, then you might be missing the bootloader.
