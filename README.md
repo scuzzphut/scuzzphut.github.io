@@ -36,13 +36,3 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 - [Midimuso Midi to CV Interface](midimuso.md)
 - Electric Druid Midi Clock 
 
-<img src="pano.jpg" usemap="#image_map">
-<map name="image_map">
-  <area alt="Ornament & Crime" title="Ornament & Crime" href="2022-05-29-Ornament and Crime.md" coords="1398,46,1561,568" shape="rect">
-  <area alt="Ornament & Crime" title="Ornament & Crime" href="2022-05-29-Ornament and Crime.md" coords="819,634,1115,1206" shape="rect">
-  <area alt="Ornament & Crime" title="Ornament & Crime" href="2022-05-29-Ornament and Crime.md" coords="723,1236,1030,1808" shape="rect">
-  <area alt="Through Hole Mutable Braids" title="Through Hole Mutable Braids" href="braids.md" coords="1565,1220,1925,1808" shape="rect">
-  <area alt="Through Hole Mutable Braids" title="Through Hole Mutable Braids" href="braids.md" coords="234,1229,599,1826" shape="rect">
-  <area alt="Midimuso Eurorack Conversion" title="Midimuso Eurorack Conversion" href="midimuso.md" coords="1561,46,1686,568" shape="rect">
-  <area alt="Hagiwo Euclidean Sequencer" title="Hagiwo Euclidean Sequencer" href="2022-05-29-hagiwo-euclidian.md" coords="336,12,448,551" shape="rect">
-</map>
