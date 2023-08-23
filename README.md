@@ -11,8 +11,6 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 # Modules - Panel / PCB Kits
 - [Ornament & Crime](2022-05-29-Ornament and Crime.md)
 - AI Synthesis VCO
-- AI Synthesis VCF
-- mxmxmx FV-1
 - Europi
 
 # Modules - Panel and PCB ordered from JLCPCB
@@ -26,11 +24,10 @@ Some are panel/pcb kits that I've assembled, some are DIY pcbs that I've designe
 # Modules - Home etched PCB / Home Drilled Panel
 - Dual VCA
 - Lopass Gate
-- 4 Channel Mixer 
 - Dreadbox PT2399 Delay
 - Mutable Instruments Peaks
 - THAT 2181 VCA
-- Wasp Filter
+
 
 # Modules - Oddballs
 - [Midimuso Midi to CV Interface](midimuso.md)
